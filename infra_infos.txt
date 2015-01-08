@@ -1,0 +1,4 @@
+depend:lib_bmp
+LDFLAGS:
+CFLAGS:
+
